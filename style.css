@@ -1,0 +1,19 @@
+body{
+    margin-top: auto;
+    padding-top:100px;
+    /* margin-bottom:125px; */
+    background: url("image/bg.jpg") repeat center center;
+} 
+footer{
+ padding: 10px 0;
+ background-color: #101010;
+ color:#9d9d9d;
+ width: 100%;
+ position: relative;
+ bottom: 0;
+
+}
+.alert{
+    margin-top: 60px;
+}
+
